@@ -1,0 +1,26 @@
+:root {
+    --color-background: #ffff;
+    --color-background-banner: #edf5f8;
+    --color-text-title:#ff4f01,
+    --color-text:#8c8787,
+    --color-button: #42d481;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, head {
+   background-color: var(--color-background); 
+}
+
+.container{
+    width: 100%;
+}
+a:hover{
+    opacity:0.8;
+}
+
