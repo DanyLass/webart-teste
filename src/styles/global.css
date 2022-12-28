@@ -3,7 +3,7 @@
     --color-background-banner: #edf5f8;
     --color-text-title:#ff4f01,
     --color-text:#8c8787,
-    --color-button: #42d481;
+    --color-button: #06cc84 ;
 }
 
 *{
@@ -21,6 +21,6 @@ html, head {
     width: 100%;
 }
 a:hover{
-    opacity:0.8;
+    color:#038354
 }
 

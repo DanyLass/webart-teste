@@ -28,11 +28,14 @@ export default {
 }
 
 #input-search {
+    display: flex;
     Width: 80%;
     height: 40px;
     font-size: 15px;
     border-radius: 8px 0px 0px 8px;
-    border-color: #EEE9E9
+    border-color: #EEE9E9;
+    padding-left: 13px;
+    outline: none;
 }
 
 #search-button {
@@ -43,6 +46,7 @@ export default {
     border-bottom-right-radius: 8px;
     align-items: center;
     justify-content: center;
+    outline: none;
 }
 
 #menu-search {

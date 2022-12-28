@@ -4,7 +4,7 @@
             <div id="items">
                 <MenuButton />
                 <div id="logo">
-                    <img alt="Web logo" src="../../assets/logo.jpg">
+                    <img alt="Web logo" id="image-header" src="../../assets/logo.jpg">
                 </div>
             </div>
             <div>
@@ -17,14 +17,13 @@
 
 <script>
 import InputMobile from '../../components/mobile/InputMobile.vue';
-import MenuButton from '../../components/MenuButton.vue';
+import MenuButton from '../MenuButton.vue';
 
 export default {
     name: 'HeaderMobile',
     components: {
         InputMobile,
         MenuButton,
-
     }
 }
 </script>
@@ -32,7 +31,6 @@ export default {
 <style scoped>
 header {
     width: 100%;
-
 }
 
 #items {
@@ -41,15 +39,18 @@ header {
 }
 
 hr {
-
     border: 0;
     border-bottom: 1px solid #CCC;
-    ;
 }
 
 #logo {
     display: flex;
     justify-content: center;
     padding: 10px;
+}
+
+#image-header {
+    display: flex;
+    width: 100%;
 }
 </style>

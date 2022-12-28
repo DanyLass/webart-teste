@@ -5,11 +5,11 @@
         </header>
         <content>
             <button class="button" id="chevron"> <img alt="icons" id="icon-chevron"
-                    src="../../assets/icons/chevron-left.svg" />
+                    src="../assets/icons/chevron-left.svg" />
                 <strong>Eletrodomésticos</strong>
             </button>
             <div id="content-top">
-                <img alt="img" id="topo" src="../../assets/destaque-topo.png" />
+                <img alt="img" id="topo" src="../assets/destaque-topo.png" />
                 <h2>Eletrodomésticos</h2>
                 <p id="text-info">
                     Você consegue imaginar sua rotina sem os eletrodomésticos? Difícil, né? Eles são equipamentos
@@ -30,222 +30,222 @@
             <hr />
             <div id="grid">
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/forno-embutido.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/forno-embutido.jpg" />
                     <label type="text" id="percentage">-21%</label>
                     <p id="text">Forno a Gás de Embutir
                         Venax Bianco 90 Litros Branco</p>
-                    <img alt="img" id="stamp" src="../../assets/selos/venax.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/venax.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$1.499,13</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$1.665,70 em 10x de R$166,57 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/forno-embutido-50l.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/forno-embutido-50l.jpg" />
                     <label type="text" id="percentage">-21%</label>
                     <p id="text">Forno a Gás de Embutir
                         Venax Arena Eg Gll 50 Litros Grill Inox</p>
-                    <img alt="img" id="stamp" src="../../assets/selos/venax.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/venax.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$1.410,72</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$1.567,47 em 10x de R$156,75 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/micro-ondas.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/micro-ondas.jpg" />
                     <label type="text" id="percentage">-28%</label>
                     <p id="text">Micro-ondas LG Solo 30 Litros Preto MS3097
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/lg.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/lg.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$649,00</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$721,11 em 10x de R$72,11 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/Refrigerador.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/Refrigerador.jpg" />
                     <label type="text" id="percentage">-23%</label>
                     <p id="text">Geladeira/Refrigerador Electrolux Degelo Prático 240 Litros
                         Cycle Defrost Branco RE31
                         220v
                     </p>
                     <!-- <img alt="img" id="star" src="../../assets/icons/avaliacao.png" /> -->
-                    <img alt="img" id="stamp" src="../../assets/selos/electrolux.png" />
+                    <img alt="img" id="stamp" src="../assets/selos/electrolux.png" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$1.890,52</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$2.100,58 em 10x de R$210,06 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/maquina-lavar-11kl.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/maquina-lavar-11kl.jpg" />
                     <label type="text" id="percentage">-20%</label>
                     <p id="text">Lava e Seca LG VC5 11kg Branca CV3011WG4A
                     </p>
-                    <img alt="img" id="stamp-" src="../../assets/selos/lg.jpg" />
+                    <img alt="img" id="stamp-" src="../assets/selos/lg.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$3.500,99</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$3.889,99 em 10x de R$389,00 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-                    <img alt="img" id="grid-image" src="../../assets/produtos/forno-eletrico-45l.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/forno-eletrico-45l.jpg" />
                     <label type="text" id="percentage">-21%</label>
                     <p id="text">Forno Elétrico de Embutir Venax Grand Gourmet 45 litros Preto
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/venax.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/venax.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$793,24</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$881,38 em 10x de R$88,14 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
 
-                    <img alt="img" id="grid-image" src="../../assets/produtos/refrigerador-french.jpg" />
+                    <img alt="img" id="grid-image" src="../assets/produtos/refrigerador-french.jpg" />
                     <label type="text" id="percentage">-20%</label>
                     <p id="text">Geladeira/Refrigerador French Door 525L Preto GR-X228NMSM
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/lg.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/lg.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$18.266,10</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$20.295,67 em 10x de R$2.029,57 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
                     <div>
-                        <img alt="img" id="stamp-transport" src="../../assets/selos/frete-gratis.png" />
-                        <img alt="img" id="grid-image" src="../../assets/produtos/maquina-lavar-14kl.jpeg" />
+                        <img alt="img" id="stamp-transport" src="../assets/selos/frete-gratis.png" />
+                        <img alt="img" id="grid-image" src="../assets/produtos/maquina-lavar-14kl.jpeg" />
                     </div>
                     <label type="text" id="percentage">-23%</label>
                     <p id="text">Lava e Seca LG Smart 14kg Branca WD14WGSP6-220v
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/lg.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/lg.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$4.760,90</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$5.289,89 em 10x de R$528,99 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
                     <div>
-                        <img alt="img" id="stamp-transport" src="../../assets/selos/frete-gratis.png" />
-                        <img alt="img" id="grid-image" src="../../assets/produtos/coifa-fogatti-90cm.png" />
+                        <img alt="img" id="stamp-transport" src="../assets/selos/frete-gratis.png" />
+                        <img alt="img" id="grid-image" src="../assets/produtos/coifa-fogatti-90cm.png" />
                     </div>
                     <label type="text" id="percentage">-32%</label>
                     <p id="text">Coifa de parede Fogatti Slim 90cm Vidro Curvo Inox
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/fogatti.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/fogatti.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$599,00</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$665,56 em 10x de R$66,56 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
                     <div>
-                        <img alt="img" id="stamp-transport" src="../../assets/selos/frete-gratis.png" />
-                        <img alt="img" id="grid-image" src="../../assets/produtos/microondas-32l.jpg" />
+                        <img alt="img" id="stamp-transport" src="../assets/selos/frete-gratis.png" />
+                        <img alt="img" id="grid-image" src="../assets/produtos/microondas-32l.jpg" />
                     </div>
                     <label type="text" id="percentage">-21%</label>
                     <p id="text">Micro-Ondas Consul 32 litros Branco CMS46AB
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/consul.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/consul.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$617,08</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$685,64 em 10x de R$68,56 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
                     <div>
-                        <img alt="img" id="grid-image" src="../../assets/produtos/forno-eletrico-continental-44l.jpg" />
+                        <img alt="img" id="grid-image" src="../assets/produtos/forno-eletrico-continental-44l.jpg" />
                     </div>
                     <label type="text" id="percentage">-20%</label>
                     <p id="text">Forno Elétrico Continental 44 Litros grill Branco BC44B
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/continental.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/continental.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$775,34</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$861,49 em 10x de R$86,15 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
                     <div>
-                        <img alt="img" id="grid-image" src="../../assets/produtos/coifa-fogatti-60cm.jpg" />
+                        <img alt="img" id="grid-image" src="../assets/produtos/coifa-fogatti-60cm.jpg" />
                     </div>
                     <label type="text" id="percentage">-21%</label>
                     <p id="text">Coifa de Parede Fogatti Slim Vidro Curvo Inox 60cm
                     </p>
-                    <img alt="img" id="stamp" src="../../assets/selos/fogatti.jpg" />
+                    <img alt="img" id="stamp" src="../assets/selos/fogatti.jpg" />
                     <div id="item-selos">
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/procel.jpg" />
-                        <img alt="img" id="stamp-selos" src="../../assets/selos/voltagem.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
+                        <img alt="img" id="stamp-selos" src="../assets/selos/voltagem.jpg" />
                     </div>
                     <div>
                         <h3>R$675,91</h3>
                         <h5> à vista no PIX ou boleto</h5>
                         <p id="line"> ou R$751,01 em 10x de R$75,10 sem juros</p>
                     </div>
-                    <ButtonCart />
+                    <ButtonCartMobile />
                 </div>
             </div>
         </content>
@@ -253,35 +253,34 @@
             <h6>Produtos: 1-12 e 284 encontrado(s)</h6>
             <div id="buttons-container">
                 <button class="button" id="chevron-button"> <img alt="icons" id="chevron-left"
-                        src="../../assets/icons/chevron-left.svg" /></button>
+                        src="../assets/icons/chevron-left.svg" /></button>
                 <button class="button" id="button-page">1</button>
                 <button class="button" id="button-page">2</button>
                 <button class="button" id="button-page">3</button>
                 <button class="button" id="button-page">4</button>
                 <button class="button" id="button-page">5</button>
                 <button class="button" id="chevron-button"> <img alt="icons" id="chevron-right"
-                        src="../../assets/icons/chevron-right.svg" /></button>
+                        src="../assets/icons/chevron-right.svg" /></button>
             </div>
             <div>
                 <p id="text-end"> 2022-Todos os direitos reservados | TESTE PARA DESENVOLVEDOR ASSISTENTE
                     FRONTEND|CNPJ:00.000.000/0000-00 BIRIGUI - SP </p>
             </div>
             <div id="logo">
-                <img alt="Web logo" src="../../assets/logo.jpg">
+                <img alt="Web logo" src="../assets/logo.jpg">
             </div>
         </footer>
     </container>
 </template>
 
 <script>
-import HeaderMobile from "../../components/mobile/HeaderMobile.vue"
-import ButtonCart from "../../components/ButtonCart.vue";
+import HeaderMobile from "../components/mobile/HeaderMobile.vue"
+import ButtonCartMobile from "../components/mobile/ButtonCartMobile.vue";
 export default {
     name: 'HomeMobile',
     components: {
         HeaderMobile,
-        ButtonCart,
-
+        ButtonCartMobile,
     }
 }
 </script>
@@ -407,7 +406,7 @@ h4 {
     text-align: center;
     width: 100%;
     justify-content: center;
-    /* border: 1px solid #d7d0d0; */
+
 }
 
 #grid-item {
@@ -552,5 +551,11 @@ h6 {
     width: 30%;
     padding-top: 5px;
     padding-bottom: 10px;
+}
+
+@media (min-width: 1060px) {
+    container {
+        display: none
+    }
 }
 </style>

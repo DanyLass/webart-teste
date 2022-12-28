@@ -1,7 +1,7 @@
 <template>
    <div id="button-container">
       <button class="button" id="button" @mouseover="isHovering = true" @mouseleave="isHovering = false"><img
-            alt="icons" id="cart-icon" src="../assets/icons/cart-shopping.svg" />Adicionar ao
+            alt="icons" id="cart-icon" src="../../assets/icons/cart-shopping.svg" />Adicionar ao
          carrinho</button>
    </div>
 </template>
@@ -9,7 +9,7 @@
 <script>
 
 export default {
-   name: "ButtonCart",
+   name: "ButtonCartMobile",
    data() {
       return {
          isHovering: false
@@ -28,7 +28,7 @@ button {
    justify-content: center;
    width: 100%;
    height: 40px;
-   background-color: #42d481;
+   background-color: #06cc84;
    border-radius: 5px;
    color: #FFF;
    font-size: 15px;
@@ -36,7 +36,7 @@ button {
 }
 
 .button:hover {
-   opacity: 0.7;
+   background-color: #038354;
 }
 
 #button-container {
