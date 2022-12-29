@@ -9,9 +9,11 @@
                 <div id="text-content">
                     <h2>Eletrodomésticos</h2>
                     <p id="text-info">
-                        Você consegue imaginar sua rotina sem os eletrodomésticos? Difícil, né? Eles são equipamentos
+                        Você consegue imaginar sua rotina sem os eletrodomésticos? Difícil, né? Eles são
+                        equipamentos
                         essenciais
-                        para realizar as tarefas domésticas com praticidade e eficiência, além de oferecer conforto para
+                        para realizar as tarefas domésticas com praticidade e eficiência, além de oferecer conforto
+                        para
                         o
                         seu
                         lar. Aqui na Dufrio você encontra diversas opções de eletrodomésticos para a cozinha, a
@@ -20,18 +22,119 @@
                             eletrodomésticos
                             na
                             Dufrio!</span></p>
+                    <span id="pontos"></span><span id="mais">Tipos de eletrodoméstico
+                        Quando o assunto é eletrodoméstico, o que não falta é a variedade de equipamentos para
+                        facilitar
+                        sua vida em diversos aspectos.
+                        São aparelhos que te ajudam no dia a dia a cozinhar, lavar louça, lavar roupas, secar,
+                        conservar, esquentar e refrigerar alimentos, entre muitas outras funções. Veja só:
+                        Cozinha
+                        A cozinha é, provavelmente, a peça da casa que concentra o maior número de eletrodomésticos.
+                        Os equipamentos centrais do ambiente são os refrigeradores, responsáveis por armazenar e
+                        conservar alimentos não-perecíveis; e os fogões, que podem ter dois tipos de funcionamento:
+                        fogão a gás e fogão elétrico.<p>
+                            Em alternativa ao fogão tradicional, existe o cooktop, equipamento que não traz forno a
+                            gás
+                            embutido, apenas o tampo com as bocas e o painel de acendimento. Já para aqueles que têm
+                            pouco
+                            espaço na cozinha, os frigobares são ótimos.
+                            Não podemos esquecer, é claro, da coifa e do depurador, equipamentos instalados acima do
+                            fogão,
+                            super úteis para dissipar a fumaça e a gordura da comida.
+                            Além dos eletrodomésticos tradicionais, uma cozinha funcional não pode deixar de contar
+                            com
+                            outros aparelhos que facilitam a rotina, como o microondas. Afinal, não tem jeito mais
+                            rápido e
+                            fácil de aquecer a comida!</p>
+                        Ainda no campo do preparo dos alimentos, outro equipamento imprescindível na cozinha é o
+                        forno
+                        elétrico, uma opção compacta e prática para assados.
+                        E para quem tem a rotina corrida e não abra mão da praticidade, a máquina lava-louça é mais
+                        uma
+                        grande aliada no dia a dia.
+                        Lavanderia
+                        A lavanderia é outra área da casa onde você pode se beneficiar (e muito) da ajuda dos
+                        eletrodomésticos.<p>
+                            O tanquinho é um aparelho super prático para lavar a roupa. Conta com funções simples e
+                            tamanho
+                            mais enxuto, perfeito para quem tem pouco espaço na lavanderia.
+                            Agora, para quem tem uma área maior e precisa de funções mais avançadas e automatizadas,
+                            como
+                            diferentes programas de lavagem, o ideal é ter uma boa máquina de lavar.
+                            A centrífuga de roupas é ótima para quem não tem máquina de lavar, já que ela executa a
+                            função
+                            de centrifugar, retirando o excesso de água das peças. Agiliza bastante o tempo de
+                            secagem
+                            no
+                            varal.
+                            Já nas regiões de inverno frio e úmido, em que as roupas custam a secar, ajuda muito ter
+                            uma
+                            secadora de roupas. É só colocar as peças no equipamento e programar a secagem que elas
+                            saem
+                            prontinhas para guardar.</p>
+                        A lava-seca está entre as melhores opções de equipamentos para cuidados com as roupas,
+                        porque é
+                        uma máquina 2 em 1. Ela agrega as funções de lavagem e secagem, otimizando espaço na
+                        lavandeira
+                        e proporcionando ainda mais praticidade.
+                        Sala e espaços de lazer
+                        Nem só de tarefas domésticas é feito seu tempo em casa, certo? Alguns eletrodomésticos
+                        também
+                        podem proporcionar momentos incríveis de diversão e prazer.<p>
+                            A TV LED gera imagens de alta qualidade, com nitidez e contraste superiores a outros
+                            modelos
+                            do
+                            mercado. Além disso, é mais econômica. Perfeita para assistir a seus filmes e séries
+                            preferidos!
+                            Cheia de funcionalidades, a TV Smart proporciona uma incrível experiência em termos de
+                            conectividade. Com ela, você pode assistir Netflix, Spotify, Youtube e todas as suas
+                            plataformas
+                            preferidas da internet. Isso sem falar da alta qualidade de som e imagem.
+                            Nada melhor do que assistir à TV apreciando uma boa cerveja, não é? A cervejeira
+                            residencial
+                            tem
+                            espaço interno otimizado e refrigeração especial, ajudando a conservar suas bebidas da
+                            melhor
+                            maneira possível.</p>
+                        Já para quem prefere outros tipos de bebida, a adega para vinhos e a champanheira podem ser
+                        os
+                        equipamentos ideais.
+                        Dicas para escolher eletrodoméstico
+                        A escolha de um eletrodoméstico para sua casa deve levar em conta diversos fatores.
+                        Lembrando
+                        que vários desses equipamentos têm alto valor de investimento e longa duração, então é
+                        importante ter cuidado para fazer a compra certa.
+                        Tamanho
+                        Independente do tipo de eletrodoméstico que você for comprar, considere seu tamanho e também
+                        as
+                        dimensões do cômodo onde pretende instalá-lo. Esse cuidado é especialmente importante na
+                        cozinha, onde vários aparelhos precisam dividir um espaço restrito.<p>
+                            Voltagem
+                            Antes de ir à loja, verifique a tensão elétrica da sua casa e certifique-se de que o
+                            eletrodoméstico escolhido tem a voltagem correta. Uma compra errada pode resultar em
+                            equipamentos queimados ou toda aquela função para fazer a troca.</p>
+                        Selo Procel
+                        O Selo Procel atesta a eficiência energética dos equipamentos elétricos. Se a economia de
+                        energia é um critério importante para você na escolha dos eletrodomésticos, fique atento a
+                        esse
+                        detalhe.
+                        Estética
+                        A estética dos equipamentos faz toda a diferença no visual da sua casa. Os eletrodomésticos
+                        coloridos estão em alta, compondo uma decoração moderna e divertida. É importante observar
+                        também o design e o material de fabricação.</span>
+                    <button @click="leiaMais()" id=" btnLeiaMais">Leia mais</button>
                 </div>
             </div>
             <div id="button-number">
                 <h6>Itens por página:</h6>
                 <SelectDesktop />
-                <h7> Ordenar por:</h7>
+                <h6> Ordenar por:</h6>
                 <SelectDesktopOrdenation />
             </div>
-
             <div id="items-content">
-                <aside class="column side" id="listen-category">
+                <div class="column side" id="listen-category">
                     <h4>Categorias</h4>
+                    <div class="text" id="products">Adega de Vinho</div>
                     <div class="text" id="products">Champanheira Elétrica</div>
                     <div class="text" id="products">Churrasqueira</div>
                     <div class="text" id="products">Coifa</div>
@@ -41,9 +144,13 @@
                     <div class="text" id="products">Forno a Gás</div>
                     <div class="text" id="products">Forno Elétrico</div>
                     <div class="text" id="products">Frigobar</div>
-                    <button id="button-category">Ver mais</button>
-                </aside>
-
+                    <a class="button" id="link"> Ver mais</a>
+                    <div id="checkbox">
+                        <h1>Marcas</h1>
+                        <span id="listen-price">Preço</span>
+                        <CheckboxDesktop />
+                    </div>
+                </div>
                 <div id="grid">
                     <div id="grid-item">
                         <img alt="img" id="grid-image" src="../assets/produtos/forno-embutido.jpg" />
@@ -299,6 +406,7 @@ import HeaderDesktop from '../components/desktop/HeaderDesktop.vue';
 import SelectDesktop from '../components/desktop/SelectDesktop.vue';
 import SelectDesktopOrdenation from '../components/desktop/SelectDesktopOrdenation.vue';
 import ButtonCartDesktop from '../components/desktop/ButtonCartDesktop.vue';
+import CheckboxDesktop from '../components/desktop/CheckboxDesktop.vue';
 
 export default {
     name: "HomeDesktop",
@@ -307,12 +415,32 @@ export default {
         SelectDesktop,
         ButtonCartDesktop,
         SelectDesktopOrdenation,
+        CheckboxDesktop
     },
     data() {
         return {
-            isHovering: false
+            isHovering: false,
         }
     },
+    methods: {
+        leiaMais
+    }
+}
+
+function leiaMais() {
+    let pontos = document.getElementById("pontos");
+    let maisTexto = document.getElementById("mais");
+    let btnLeiaMais = document.getElementById("btnLeiaMais");
+
+    if (pontos.style.display === "none") {
+        pontos.style.display = "inline";
+        maisTexto.style.display = "none";
+        btnLeiaMais.innerHTML = "Leia mais";
+    } else {
+        pontos.style.display = "none";
+        maisTexto.style.display = "inline";
+        btnLeiaMais.innerHTML = "Leia menos";
+    }
 }
 </script>
 
@@ -326,6 +454,7 @@ container {
     justify-content: center;
     align-content: center;
     padding-left: 220px;
+    margin-right: 30px;
 }
 
 #home-text-content {
@@ -333,7 +462,7 @@ container {
     display: flex;
     align-items: center;
     background-color: var(--color-background-banner);
-    margin-top: 100px;
+    margin-top: 30px;
     padding-bottom: 10px;
     padding-top: 10px;
     border-bottom: 2px solid #1E90FF;
@@ -341,6 +470,30 @@ container {
 
 #text-content {
     display: block;
+}
+
+#mais {
+    display: none;
+    text-align: center;
+    line-height: 25px;
+    color: #aea9a8;
+    font-size: 16px;
+    max-width: 10px;
+}
+
+button {
+    display: flex;
+    background-color: #ff4f01;
+    color: #fff;
+    width: 100px;
+    height: 25px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 450px;
 }
 
 #text-info {
@@ -388,6 +541,7 @@ h2 {
     grid-template-columns: repeat(3, 20%);
     place-items: center;
     justify-content: center;
+    padding-left: 100px;
 }
 
 #grid-item {
@@ -466,14 +620,8 @@ h5 {
 h6 {
     font-size: 0.9rem;
     color: #8c8787;
-    margin-right: 20px;
-}
-
-h7 {
-    font-size: 1rem;
-    color: #8c8787;
-    margin-right: 6px;
-    font-weight: bold
+    text-align: center;
+    font-family: sans-serif;
 }
 
 #buttons-container {
@@ -513,7 +661,7 @@ h7 {
 }
 
 .button:hover {
-    opacity: 0.3
+    opacity: 0.3;
 }
 
 #chevron-left,
@@ -566,8 +714,6 @@ h4 {
 #listen-category {
     width: 100px;
     color: #8c8787;
-    margin-left: 80px;
-
 }
 
 #button-category {
@@ -581,7 +727,35 @@ h4 {
 }
 
 #products {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#link {
+    font-size: 0.9rem;
+    text-decoration: underline;
+}
+
+#checkbox {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    color: #ff4f01;
+    font-size: 1.5rem;
+    padding-top: 30px;
+}
+
+#listen-price {
+    display: flex;
+    align-items: center;
+    color: #ff4f01;
+    font-size: 1rem;
+    padding-top: 30px;
 }
 
 @media (min-width: 320px) and (max-width: 1096px) {

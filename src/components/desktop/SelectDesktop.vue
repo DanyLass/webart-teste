@@ -7,7 +7,9 @@
         <option>3</option>
     </select>
 </template>
+
 <script>
+
 export default {
     name: "SelectDesktop"
 }
@@ -25,6 +27,6 @@ export default {
     box-shadow: 1px 1px 1px 1px #e1d8d8;
     background-color: #fff;
     outline: none;
-
+    margin-right: 10px;
 }
 </style>

@@ -87,7 +87,6 @@
                         Cycle Defrost Branco RE31
                         220v
                     </p>
-                    <!-- <img alt="img" id="star" src="../../assets/icons/avaliacao.png" /> -->
                     <img alt="img" id="stamp" src="../assets/selos/electrolux.png" />
                     <div id="item-selos">
                         <img alt="img" id="stamp-selos" src="../assets/selos/procel.jpg" />
@@ -134,7 +133,6 @@
                     <ButtonCartMobile />
                 </div>
                 <div id="grid-item">
-
                     <img alt="img" id="grid-image" src="../assets/produtos/refrigerador-french.jpg" />
                     <label type="text" id="percentage">-20%</label>
                     <p id="text">Geladeira/Refrigerador French Door 525L Preto GR-X228NMSM
@@ -357,7 +355,6 @@ h4 {
     justify-content: center;
     align-items: center;
     padding-bottom: 20px;
-
 }
 
 #read {
@@ -375,7 +372,6 @@ h4 {
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
 
 #filter {
@@ -385,7 +381,6 @@ h4 {
     border-radius: 3px;
     color: #fff;
     border: none;
-
 }
 
 #percentage {
@@ -406,7 +401,6 @@ h4 {
     text-align: center;
     width: 100%;
     justify-content: center;
-
 }
 
 #grid-item {
@@ -443,7 +437,6 @@ h5 {
 
 #grid-image {
     width: 100%;
-
 }
 
 #stamp {
@@ -472,11 +465,6 @@ h3 {
 
     font-family: sans-serif;
 }
-
-/* #star {
-    width: 80px;
-    
-} */
 
 #text-end {
     display: flex;

@@ -1,5 +1,4 @@
 <template>
-
     <container>
         <header>
             <div id="input-wrapper">
@@ -24,7 +23,6 @@ export default {
     display: flex;
     justify-content: center;
     padding-bottom: 10px;
-
 }
 
 #input-search {

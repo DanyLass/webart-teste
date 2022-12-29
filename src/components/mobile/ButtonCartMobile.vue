@@ -35,7 +35,7 @@ button {
    font-family: sans-serif;
 }
 
-.button:hover {
+#button:hover {
    background-color: #038354;
 }
 

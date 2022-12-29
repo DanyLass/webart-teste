@@ -17,7 +17,7 @@ html, head {
    background-color: var(--color-background); 
 }
 
-.container{
+#container{
     width: 100%;
 }
 a:hover{

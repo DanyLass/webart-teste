@@ -37,7 +37,6 @@ button {
 
 .button:hover {
     background-color: #038354;
-
 }
 
 #button-container {
